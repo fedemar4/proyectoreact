@@ -1,0 +1,22 @@
+
+
+.inicio {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .inicio h2 {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .inicio p {
+    font-size: 18px;
+    color: #666;
+    line-height: 1.4;
+  }
+  

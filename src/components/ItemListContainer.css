@@ -1,0 +1,16 @@
+
+
+.item-list-container {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .greeting {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  

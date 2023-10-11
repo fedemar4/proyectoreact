@@ -1,0 +1,38 @@
+
+.productos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  
+  .producto {
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    padding: 20px;
+    width: calc(33.33% - 20px); /* Tres columnas en una fila */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .producto img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .producto h3 {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .producto p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.4;
+  }
+  
+  .producto p:last-child {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
